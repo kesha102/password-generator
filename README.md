@@ -1,2 +1,2 @@
 # Password generator
-+ A simple program that tells you how many characters you need in your password and generates it for you
++ A simple program that asks how many characters your password should have and generates it for you
